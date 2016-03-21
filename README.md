@@ -1,1 +1,0 @@
-# device_generic_mini-emulator-armv7-a-neon
